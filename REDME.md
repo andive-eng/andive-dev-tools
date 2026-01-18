@@ -43,4 +43,9 @@ You can:
 
 ## License
 
-MIT
+
+MIT License
+
+Copyright (c) 2026 [EngageOffice]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
