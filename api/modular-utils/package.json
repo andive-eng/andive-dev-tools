@@ -1,0 +1,10 @@
+{
+  "name": "modular-utils",
+  "version": "1.0.0",
+  "description": "Developer utilities for modular knowledge APIs (token splitting, rate limit parsing, etc.)",
+  "main": "./utils.ts",
+  "types": "./utils.ts",
+  "keywords": ["tokenizer", "api-helper", "rate-limit", "chunking", "utils"],
+  "author": "Your Company",
+  "license": "MIT"
+}
