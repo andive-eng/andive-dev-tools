@@ -37,3 +37,6 @@ No dependencies
 
 
 
+## License
+
+MIT © 2026 EngageOffice

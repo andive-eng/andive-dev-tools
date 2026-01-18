@@ -43,3 +43,8 @@ Useful for pre-checks, limits, and UX warnings
 
 
 Can be extended later for different models or pricing logic
+
+
+## License
+
+MIT © 2026 EngageOffice

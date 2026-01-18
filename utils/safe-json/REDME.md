@@ -12,3 +12,6 @@ const data = safeJsonParse(
 )
 Returns fallback if JSON is invalid.
 
+## License
+
+MIT © 2026 EngageOffice

@@ -25,6 +25,8 @@ No side effects
 Works with Node, Next.js, TypeScript
 
 
-License
-MIT
+## License
+
+MIT © 2026 EngageOffice
+
 

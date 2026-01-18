@@ -93,6 +93,6 @@ setWithTTL(sessionId, context, 60000);
 
 const cached = getWithTTL(sessionId);
 
-License
+## License
 
-MIT
+MIT © 2026 EngageOffice

@@ -57,6 +57,6 @@ import {
 } from './utils';
 
 
-License
+## License
 
-MIT
+MIT © 2026 EngageOffice

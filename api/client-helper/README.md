@@ -47,5 +47,5 @@ Intended as a base layer for:
 
 ## License
 
-MIT AnDive
+MIT © 2026 EngageOffice
 
